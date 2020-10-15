@@ -42,10 +42,10 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 **Your location**: Ambala City
 
-### About You :boy:
+### About You :girl:
 
-Anything about yourself! 
-Any hobbies or intrest
+hi! 
+git hub is best place to coders
 ___
 
 ## Ready, Steady, Go... :turtle: :rabbit2:
